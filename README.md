@@ -49,4 +49,7 @@
   <a href="https://www.garbcan.com/team/junyi-li/">
     <img src="https://github.com/GrandJune/GrandJune/blob/main/assets/gclab-logo1.png">
   </a>
+  <a href=" http://ehealth.hit.edu.cn/2018/0516/c9176a208116/page.htm">
+    <img src="https://github.com/GrandJune/GrandJune/blob/main/assets/images.jpg">
+  </a>
 </p>
