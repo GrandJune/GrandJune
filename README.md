@@ -3,14 +3,15 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=print(%22Hey%2C%20There!%22)&center=true&size=27">
 </h1>
+
 ## 🌠[Coding Time]
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=younger-1&theme=calm&show_icons=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younger-1&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
 </div>
 ---
-## 📚[Research Time]
 
+## 📚[Research Time]
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on
 - Organizational Behavior Theory
 - Crowd-based Innovation
@@ -28,6 +29,7 @@
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/question.png" width="50px" />  Ask me about
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px" /> any research related question in IS field.
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> More about me: 
+<div align="center">
 <a href="https://www.linkedin.com/in/junyi-li-018409105/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
 &nbsp; &nbsp;
 <a href="mailto:junyi@comp.nus.edu.sg"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
@@ -36,7 +38,7 @@
 &nbsp; &nbsp;
 ⭐️ HIT [eHealth Institude](http://ehealth.hit.edu.cn/2018/0516/c9176a208116/page.htm)
 &nbsp; &nbsp;
-
+</div>
 ---
 <!-- dynamic contribution figure -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/github-contribution-grid-snake.svg" /></div>
