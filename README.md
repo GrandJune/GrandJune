@@ -18,7 +18,7 @@
 - Crowdsourcing and Crowdfunding (only limited within particular contexts)
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning
 - NK Landscape Model
-- Hidden Markov Chain model
+- Hidden Markov Model
 - IS Theorizing
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> I’m looking to collaborate on
