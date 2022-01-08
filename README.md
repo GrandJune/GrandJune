@@ -5,10 +5,9 @@
 </h1>
 
 ## 🌠[Coding Time]
-<div>
+<h1 align="center">
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=GrandJune&theme=calm&show_icons=true" />
-</div>
-
+</h1>
 ---
 
 ## 📚[Research Time]
