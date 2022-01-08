@@ -43,16 +43,10 @@
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px" /> any research related question in IS field.
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> More about me: 
 <p align="center">
-  <a href="junyi@comp.nus.edu.sg">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
-  </a>
   <a href="https://www.linkedin.com/in/junyi-li-018409105/">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
   </a>
   <a href="https://www.garbcan.com/team/junyi-li/">
-    <img src="https://www.garbcan.com/wp-content/uploads/2021/01/gclab-logo1.png>
+    <img src="https://github.com/GrandJune/GrandJune/blob/main/assets/gclab-logo1.png">
   </a>
-
 </p>
-        
-
