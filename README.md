@@ -27,11 +27,11 @@
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> Technical project, like applications of Bayesian learning models in IS field. 
 
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> More about me: 
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> More about me
 
-<a href="https://www.linkedin.com/in/junyi-li-018409105/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="15px" alt="linkedin"></a>
+<a href="https://www.linkedin.com/in/junyi-li-018409105/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="20px" alt="linkedin"></a>
 &nbsp; &nbsp;
-<a href="mailto:junyi@comp.nus.edu.sg"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="15px" alt="mail"></a> 
+<a href="mailto:junyi@comp.nus.edu.sg"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="20px" alt="mail"></a> 
 &nbsp; &nbsp;
 ⭐️ NUS [Garbege Can Lab](https://www.garbcan.com/team/junyi-li/)
 &nbsp; &nbsp;
