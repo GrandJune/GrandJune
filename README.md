@@ -2,7 +2,8 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /></div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=print(%22Hey%2C%20There!%22)&center=true&size=27">
-</h1>  
+</h1>
+
 ## 🌠[Coding Time]
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=younger-1&theme=calm&show_icons=true" />
@@ -20,17 +21,17 @@
 - NK Landscape Model
 - Hidden Markov Chain model
 - IS Theorizing
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> I’m looking to collaborate on
-- Mainly for the technical project, like applications of Bayesian learning models in IS field. 
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> I’m looking for help with
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> Empirical data resource on crowd-based activities.
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> I’m looking to collaborate on
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> Empirical data resource on crowd-based activities;
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> Technical project, like applications of Bayesian learning models in IS field. 
+
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> More about me: 
 
-<a href="https://www.linkedin.com/in/junyi-li-018409105/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
+<a href="https://www.linkedin.com/in/junyi-li-018409105/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="15px" alt="linkedin"></a>
 &nbsp; &nbsp;
-<a href="mailto:junyi@comp.nus.edu.sg"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
+<a href="mailto:junyi@comp.nus.edu.sg"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="15px" alt="mail"></a> 
 &nbsp; &nbsp;
 ⭐️ NUS [Garbege Can Lab](https://www.garbcan.com/team/junyi-li/)
 &nbsp; &nbsp;
