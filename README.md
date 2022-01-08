@@ -7,7 +7,7 @@
 ## 🌠[Coding Time]
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=GrandJune&theme=calm&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrandJune&theme=calm&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrandJune&layout=compact" />
 </div>
 
 ---
