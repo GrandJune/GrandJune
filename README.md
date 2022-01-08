@@ -50,6 +50,6 @@
     <img src="https://github.com/GrandJune/GrandJune/blob/main/assets/gclab-logo1.png">
   </a>
   <a href=" http://ehealth.hit.edu.cn/2018/0516/c9176a208116/page.htm">
-    <img src="https://github.com/GrandJune/GrandJune/blob/main/assets/images.jpg" width="200px" height="30px">
+    <img src="https://github.com/GrandJune/GrandJune/blob/main/assets/images.jpg" width="30px" height="30px">
   </a>
 </p>
