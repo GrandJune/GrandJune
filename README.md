@@ -31,17 +31,14 @@
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/question.png" width="50px" />  Ask me about
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px" /> any research related question in IS field.
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> More about me: 
-<p align="center">
-  <a href="https://www.linkedin.com/in/junyi-li-018409105/">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
-  </a>
-  <a href="https://www.garbcan.com/team/junyi-li/">
-    <img src="https://github.com/GrandJune/GrandJune/blob/main/assets/gclab-logo1.png">
-  </a>
-  <a href=" http://ehealth.hit.edu.cn/2018/0516/c9176a208116/page.htm">
-    <img src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif">
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/junyi-li-018409105/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
+&nbsp; &nbsp;
+<a href="mailto:junyi@comp.nus.edu.sg"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
+&nbsp; &nbsp;
+⭐️ NUS [Garbege Can Lab](https://www.garbcan.com/team/junyi-li/)
+&nbsp; &nbsp;
+⭐️ HIT [eHealth Institude](http://ehealth.hit.edu.cn/2018/0516/c9176a208116/page.htm)
+&nbsp; &nbsp;
 ---
 <!-- dynamic contribution figure -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/github-contribution-grid-snake.svg" /></div>
