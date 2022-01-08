@@ -35,7 +35,7 @@
 &nbsp; &nbsp;
 ⭐️ NUS [Garbege Can Lab](https://www.garbcan.com/team/junyi-li/)
 &nbsp; &nbsp;
-⭐️ HIT [eHealth Institude](http://ehealth.hit.edu.cn/2018/0516/c9176a208116/page.htm)
+⭐️ HIT [eHealth Research Institude](http://ehealth.hit.edu.cn/2018/0516/c9176a208116/page.htm)
 &nbsp; &nbsp;
 
 ---
