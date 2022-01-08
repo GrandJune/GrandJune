@@ -1,11 +1,12 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=print(%22Hello%2C%20Friend!%22)&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=print(%22Hey%2C%20There!%22)&center=true&size=27">
 </h1>
 
 <!-- visitor stats -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /></div>
 
-### 🌠[Coding Time]
+## 🌠[Coding Time]
+
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=younger-1&theme=calm&show_icons=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younger-1&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
@@ -13,7 +14,8 @@
 
 ---
 
-### 📚[Research Time]
+## 📚[Research Time]
+
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on
 - Organizational Behavior Theory
 - Crowd-based Innovation
