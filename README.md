@@ -4,14 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=print(%22Hey%2C%20There!%22)&center=true&size=27">
 </h1>
 ## 🌠[Coding Time]
-
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=younger-1&theme=calm&show_icons=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younger-1&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
 </div>
-
 ---
-
 ## 📚[Research Time]
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on
@@ -39,6 +36,7 @@
 &nbsp; &nbsp;
 ⭐️ HIT [eHealth Institude](http://ehealth.hit.edu.cn/2018/0516/c9176a208116/page.htm)
 &nbsp; &nbsp;
+
 ---
 <!-- dynamic contribution figure -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/github-contribution-grid-snake.svg" /></div>
