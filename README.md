@@ -2,7 +2,7 @@
 
 <!-- 动态打字效果 -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=lines=console.log(%22Hello%2C%20World!%22)&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=print(%22Hello%2C%20World!%22)&center=true&size=27">
 </h1>
 
 <!-- 敲代码的图片 -->
