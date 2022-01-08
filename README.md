@@ -11,7 +11,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younger-1&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
 </div>
 
+---
 
+### 📚[Research Time]
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on
 - Organizational Behavior Theory
 - Crowd-based Innovation
@@ -41,5 +43,9 @@
   </a>
 </p>
 
+---
+
 <!-- dynamic contribution figure -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/github-contribution-grid-snake.svg" /></div>
+
+---
