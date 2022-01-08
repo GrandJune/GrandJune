@@ -5,24 +5,11 @@
 <!-- visitor stats -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /></div>
 
-<!-- dynamic contribution figure -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/github-contribution-grid-snake.svg" /></div>
-
-
-<!-- GitHub数据统计 -->
-<!-- <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=GrandJune&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+### 🌠[Coding Time]
+<div>
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=younger-1&theme=calm&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younger-1&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
 </div>
--->
-
-
-
-</tr>
-</table>
-
-<!-- GitHub Activity Graph -->
-<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=GrandJune&theme=react-dark" /></div>
-
 
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on
@@ -53,3 +40,6 @@
     <img src="https://github.com/GrandJune/GrandJune/blob/main/assets/images.jpg">
   </a>
 </p>
+
+<!-- dynamic contribution figure -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/github-contribution-grid-snake.svg" /></div>
