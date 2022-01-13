@@ -8,7 +8,7 @@
 ## 🌠[Coding Time]
 <div>
     <img height="165" width="40%" align="left" src="https://github-readme-stats.vercel.app/api?username=GrandJune&theme=calm&show_icons=true" />
-    <img height="165" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrandJune&theme=calm&langs_count=6&layout=compact" />
+    <img height="165" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrandJune&theme=calm&langs_count=6&layout=compact" />
 </div>
 
 ## 📚[Research Time]
