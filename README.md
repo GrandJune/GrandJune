@@ -16,6 +16,7 @@
 - Organizational Behavior Theory
 - Crowd-based Innovation
 - Crowdsourcing and Crowdfunding (only limited within particular contexts)
+- Next generation organization theory enabled by Fintech context (Non-Fungible Tokens, Decentralized Autonomous Organization)
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning
 - NK Landscape Model
 - Hidden Markov Model
