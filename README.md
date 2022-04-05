@@ -15,17 +15,16 @@
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on
 - Organizational Behavior Theory
 - Crowd-based Innovation
-- Crowdsourcing and Crowdfunding (only limited within particular contexts)
-- Next generation organization theory enabled by Fintech context (Non-Fungible Tokens, Decentralized Autonomous Organization)
+- Next generation organization theory enabled by Fintech context (e.g., Non-Fungible Tokens, Decentralized Autonomous Organization)
+- Methodology: reduced-form econometrics, simulation, Bayesian learning
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning
 - NK Landscape Model
 - Hidden Markov Model
 - IS Theorizing
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> I’m looking to collaborate on
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> Empirical data resource on crowd-based activities;
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> Technical project, like applications of Bayesian learning models in IS field. 
-
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> Empirical study on crowd-based activities;
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> Technical track, like applications of Bayesian learning models in IS field. 
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> More about me
 
