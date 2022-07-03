@@ -26,7 +26,7 @@
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> Empirical study on crowd-based activities;
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> Technical track, like applications of Bayesian learning models in IS field. 
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="60px" /> More about me
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" height="35px" /> More about me
 
 <a href="https://www.linkedin.com/in/junyi-li-018409105/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="20px" alt="linkedin"></a>
 &nbsp; &nbsp;
