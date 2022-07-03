@@ -18,13 +18,13 @@
 - Next generation organization theory enabled by Fintech context (e.g., Non-Fungible Tokens, Decentralized Autonomous Organization)
 - Methodology: reduced-form econometrics, simulation, Bayesian learning
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="35px" /> I’m currently learning
-- NK Landscape Model
+- Computational Model for Organization Science (e.g., NK Landscape Model, genetic algorithmn, dynamic systems, etc.)
 - Hidden Markov Model
 - IS Theorizing
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" height="35px" /> I’m looking to collaborate on
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> Empirical study on crowd-based activities;
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> Technical track, like applications of Bayesian learning models in IS field. 
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> Empirical study on crowd-based activities (e.g., digital coordination, social promotion, crowdfunding);
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> Technical track, such as applications of Bayesian learning models in IS field. 
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" height="35px" /> More about me
 
