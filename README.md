@@ -13,8 +13,8 @@
 
 ## 📚[Research Time]
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" height="35px" /> I’m currently working on
-- Organizational Behavior Theory
-- Crowd-based Innovation
+- Organizational behavior theory
+- Crowd-based innovation
 - Next generation organization theory enabled by Fintech context (e.g., Non-Fungible Tokens, Decentralized Autonomous Organization)
 - Methodology: reduced-form econometrics, simulation, Bayesian learning
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="35px" /> I’m currently learning
