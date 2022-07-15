@@ -4,7 +4,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=print(%22Hey%2C%20There!%22)&center=true&size=27">
 </h1>
-Studying information systems for better productivity, profitability, and social welfare!
+
 ## 🌠[Coding Time]
 <div>
     <img height="165" width="40%" align="left" src="https://github-readme-stats.vercel.app/api?username=GrandJune&theme=calm&show_icons=true" />
@@ -25,6 +25,8 @@ Studying information systems for better productivity, profitability, and social 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" height="35px" /> I’m looking to collaborate on
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> Empirical study on crowd-based activities (e.g., digital coordination, social promotion, crowdfunding);
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> Technical track, such as applications of Bayesian learning models in IS field. 
+
+### Studying information systems for better productivity, profitability, and social welfare!
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" height="35px" /> More about me
 
