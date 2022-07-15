@@ -26,8 +26,6 @@
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> Empirical study on crowd-based activities (e.g., digital coordination, social promotion, crowdfunding);
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> Technical track, such as applications of Bayesian learning models in IS field. 
 
-### Studying information systems for better productivity, profitability, and social welfare!
-
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" height="35px" /> More about me
 
 <a href="https://www.linkedin.com/in/junyi-li-018409105/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="20px" alt="linkedin"></a>
