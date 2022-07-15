@@ -4,7 +4,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=print(%22Hey%2C%20There!%22)&center=true&size=27">
 </h1>
-
+Studying information systems for better productivity, profitability, and social welfare!
 ## 🌠[Coding Time]
 <div>
     <img height="165" width="40%" align="left" src="https://github-readme-stats.vercel.app/api?username=GrandJune&theme=calm&show_icons=true" />
@@ -18,7 +18,7 @@
 - Next generation organization theory enabled by Fintech context (e.g., Non-Fungible Tokens, Decentralized Autonomous Organization)
 - Methodology: reduced-form econometrics, computational social science and mathmatical sociology, Bayesian learning
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="35px" /> I’m currently learning
-- Computational Model for Organization Science (e.g., NK Landscape Model, genetic algorithmn, dynamic systems, etc.)
+- Computational Model for Organization Science (e.g., NK landscape model, genetic algorithmn, dynamic systems, etc.)
 - Hidden Markov Model
 - IS Theorizing
 
