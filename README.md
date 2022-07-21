@@ -13,7 +13,7 @@
 
 ## 📚[Research Time]
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" height="35px" /> I’m currently working on
-- Organizational behavior theory
+- Organizational learning
 - Crowd-based innovation
 - Next generation organization theory enabled by Fintech context (e.g., Non-Fungible Tokens, Decentralized Autonomous Organization)
 - Methodology: reduced-form econometrics, computational social science and mathmatical sociology, Bayesian learning
