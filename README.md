@@ -15,7 +15,7 @@
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" height="35px" /> I’m currently working on
 - Organizational learning
 - Crowd-based innovation
-- Next generation organization theory enabled by block chain context (e.g., Non-Fungible Tokens, Decentralized Autonomous Organization)
+- The next generation of organization theory enabled by block chain context (e.g., Non-Fungible Tokens, Decentralized Autonomous Organization)
 - Methodology: reduced-form econometrics, computational social science and mathmatical sociology, Bayesian learning
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="35px" /> I’m currently learning
 - Computational Model for Organization Science (e.g., NK landscape model, genetic algorithmn, dynamic systems, etc.)
