@@ -19,8 +19,8 @@
 - Methodology: reduced-form econometrics, computational social science and mathmatical sociology, Bayesian learning
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="35px" /> I’m currently learning
 - Computational model for organization science (e.g., NK landscape model, genetic algorithmn, dynamic systems, etc.)
-- Hidden Markov model
-- IS Theorizing
+- Computational model for information system design
+- IS theorizing
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" height="35px" /> I’m looking for collaboration on
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> Computational model for organizational learning
