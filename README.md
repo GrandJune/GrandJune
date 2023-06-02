@@ -13,19 +13,17 @@
 
 ## 📚[Research Time]
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" height="35px" /> I’m currently working on
-- Organizational learning
-- Crowd-based innovation
-- The next generation of organization theory enabled by block chain context (e.g., decentralized autonomous organization)
-- Methodology: reduced-form econometrics, computational social science and mathmatical sociology, Bayesian learning
+- Decentralized Organizational Design with Blockchain Technology
+- Managing Wisdom of Crowd in Crowdsourcing
+- Managing Wisdom of AI in Organizational Rationality
+- Methodology: Agent-Based Simulation, Reduced-Form Econometrics
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="35px" /> I’m currently learning
-- Computational model for organization science (e.g., NK landscape model, genetic algorithmn, dynamic systems, etc.)
-- Computational model for information system design
-- IS theorizing
+- Computational Modeling (e.g., NK Fitness Landscape Model, Genetic Model, Dynamic System Model, etc.)
+- Theory Development
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" height="35px" /> I’m looking for collaboration on
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> Computational model for organizational learning
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> Computational model for machine learning
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> Empirical study on crowd-based activities (e.g., digital coordination, crowdsourcing, social promotion, and crowdfunding);
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> Computational Model for Organizational Learning
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> Empirical Study to Test Organizational Theory;
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" height="35px" /> More about me
 
