@@ -17,6 +17,7 @@ I mainly write theoretical papers that examine how digital organizing can be rat
 - Decentralized Organizational Design with Blockchain Technology (i.e., Regime)
 - Managing Wisdom of Crowds in Crowdsourcing (i.e., Human Component)
 - Managing Wisdom of AI in Organizational Rationality (i.e., Machine Component)
+  
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="35px" /> I’m currently learning
 - Computational Modeling (e.g., NK Fitness Landscape Model, Genetic Model, Dynamic System Model, etc.)
 - Theory Development
