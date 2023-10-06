@@ -14,9 +14,9 @@
 ## 📚[Research Time]
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" height="35px" /> I’m currently working on
 I mainly write theoretical papers that examine how digital organizing can be rationally designed, in dealing with complexity in information systems. My studies consist of three connected streams.
--Decentralized Organizational Design with Blockchain Technology (i.e., Regime)
--Managing Wisdom of Crowds in Crowdsourcing (i.e., Human Component)
--Managing Wisdom of AI in Organizational Rationality (i.e., Machine Component)
+- Decentralized Organizational Design with Blockchain Technology (i.e., Regime)
+- Managing Wisdom of Crowds in Crowdsourcing (i.e., Human Component)
+- Managing Wisdom of AI in Organizational Rationality (i.e., Machine Component)
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="35px" /> I’m currently learning
 - Computational Modeling (e.g., NK Fitness Landscape Model, Genetic Model, Dynamic System Model, etc.)
 - Theory Development
