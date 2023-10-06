@@ -12,19 +12,15 @@
 </div>
 
 ## 📚[Research Time]
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" height="35px" /> I’m currently working on
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" height="35px" /> Research Interest
 I mainly write theoretical papers that examine how digital organizing can be rationally designed, in dealing with complexity in information systems. My studies consist of three connected streams.
 - Decentralized Organizational Design with Blockchain Technology (i.e., Regime)
 - Managing Wisdom of Crowds in Crowdsourcing (i.e., Human Component)
 - Managing Wisdom of AI in Organizational Rationality (i.e., Machine Component)
   
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="35px" /> I’m currently learning
-- Computational Modeling (e.g., NK Fitness Landscape Model, Genetic Model, Dynamic System Model, etc.)
-- Theory Development
-
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" height="35px" /> I’m looking for collaboration on
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> Computational Modeling to Develop Organizing Theories
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> Empirical Study to Develop and Test Organizing Theories;
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="35px" /> Research Methodology
+- Computational Modeling
+- Econometrics
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" height="35px" /> More about me
 
