@@ -26,7 +26,7 @@ I mainly write theoretical papers examining how digital organizing can be ration
 
 <a href="https://www.linkedin.com/in/junyi-li-018409105/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="20px" alt="linkedin"></a>
 &nbsp; &nbsp;
-<a href="mailto:junyi@comp.nus.edu.sg"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="20px" alt="mail"></a> 
+<a href="mailto:junyili@u.nus.edu"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="20px" alt="mail"></a> 
 &nbsp; &nbsp;
 ⭐️ NUS [Garbege Can Lab](https://www.garbcan.com/team/junyi-li/)
 &nbsp; &nbsp;
